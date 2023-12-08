@@ -1,0 +1,26 @@
+tbody tr .zhuye {
+    font-family: "幼圆";
+    text-align: center;
+    font-size: xx-large;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+#Tabs1  {
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-family: "幼圆";
+    font-size: large;
+    height: auto;
+    max-width: none;
+    padding-right: 0px;
+    text-align: left;
+
+}
+footer {
+    text-align: center;
+    font-size: x-large;
+}
